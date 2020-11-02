@@ -3,3 +3,5 @@ keyboard
 mouse
 
 monitor
+cpu1
+cpu2
